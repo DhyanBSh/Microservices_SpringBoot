@@ -1,5 +1,7 @@
-com\microsevices\inventory_service\controller\InventoryController.class
-com\microsevices\inventory_service\repository\InventoryRepository.class
 com\microsevices\inventory_service\InventoryServiceApplication.class
 com\microsevices\inventory_service\model\Inventory.class
+com\microsevices\inventory_service\dto\InventoryResponse.class
+com\microsevices\inventory_service\controller\InventoryController.class
+com\microsevices\inventory_service\dto\InventoryResponse$InventoryResponseBuilder.class
+com\microsevices\inventory_service\repository\InventoryRepository.class
 com\microsevices\inventory_service\service\InventoryService.class
